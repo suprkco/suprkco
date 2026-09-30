@@ -38,7 +38,7 @@ The projects are AI-assisted portfolio prototypes, not client engagements or pro
 
 ## Distributed compute experiment
 
-[Blockchain Inference Lab](https://github.com/suprkco/Blockchain-Essentials): split a tiny untrained transformer across two local worker processes, record ordered receipts in Solidity, and test the gap between hash continuity and verified computation. Local EVM only; no trained LLM or multi-machine performance claim.
+[Adaptive Inference Network](https://github.com/suprkco/Blockchain-adaptive-inference-network): trained MiniLM embeddings split across two CPU workers, compared with local inference and local EVM receipts. Publishes 60 latency samples, equivalence checks, injected failures and a research white paper; no trustless-inference or multi-machine performance claim.
 
 ## Earlier work
 

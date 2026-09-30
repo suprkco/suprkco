@@ -36,6 +36,10 @@ The projects are AI-assisted portfolio prototypes, not client engagements or pro
 
 [Online Regret Lab](https://github.com/suprkco/Trading-strategies-analysis-regret-minimization): terminal-first Hedge experiments, explicit external regret, four causal experts and 80 reproducible synthetic runs. Includes 18 tests; no real-market profitability claim.
 
+## Distributed compute experiment
+
+[Blockchain Inference Lab](https://github.com/suprkco/Blockchain-Essentials): split a tiny untrained transformer across two local worker processes, record ordered receipts in Solidity, and test the gap between hash continuity and verified computation. Local EVM only; no trained LLM or multi-machine performance claim.
+
 ## Earlier work
 
 [Python country-data comparison](https://github.com/suprkco/Comparaison-des-indemnit-s-de-VIE-par-pays) · [Online Regret Lab](https://github.com/suprkco/Trading-strategies-analysis-regret-minimization) · [Java RentManager](https://github.com/suprkco/Projet_RentManager)

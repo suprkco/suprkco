@@ -12,12 +12,12 @@ Four focused prototypes: inspectable evidence, constrained tools, human review a
 
 | Project | What to inspect | Validation and scope |
 | --- | --- | --- |
-| **[EU AI Act Evidence Explorer](https://github.com/suprkco/rag-eu-ai-act)** | FastAPI + Next.js, source citations, BM25 baseline, optional Ollama/pgvector adapters | 20/20 development questions hit the expected article in the top 5 chunks; not a held-out legal QA benchmark |
+| **[EU AI Act Evidence Explorer](https://github.com/suprkco/rag-eu-ai-act)** | Terminal interface + FastAPI, source citations, BM25 baseline, optional Ollama/pgvector adapters | 20/20 development questions hit the expected article in the top 5 chunks; not a held-out legal QA benchmark |
 | **[MCP SQL Analytics](https://github.com/suprkco/mcp-sql-analytics)** | Real MCP stdio server, read-only SQLite policy, bounded queries | 24 tests, including protocol integration and denied writes; synthetic retail data |
 | **[Market Scout Agents](https://github.com/suprkco/market-scout-agents)** | LangGraph specialist roles, evidence checks and persistent human review | 9 workflow tests; default fixture mode, optional model calls |
-| **[Jev SERP Opportunity Lab](https://github.com/suprkco/jev-serp-opportunity-lab)** | Typed intent judgments, explicit uncertainty routing, HTML reports | 13 contract/policy tests; Jev live performance not yet measured |
+| **[Jev SERP Opportunity Lab](https://github.com/suprkco/jev-serp-opportunity-lab)** | Typed intent judgments, explicit uncertainty routing, terminal reports | 13 contract/policy tests; Jev live performance not yet measured |
 
-**[Open the Jev policy demo](https://suprkco.github.io/jev-serp-opportunity-lab/)** — clearly labeled synthetic inputs and simulated responses, no API key required.
+**[Read the Jev terminal transcript](https://suprkco.github.io/jev-serp-opportunity-lab/)** — clearly labeled synthetic inputs and simulated responses, no API key required.
 
 ## Stack used in this portfolio
 

@@ -32,6 +32,10 @@ Python · SQL · FastAPI · Pydantic · Next.js / TypeScript · MCP · LangGraph
 
 The projects are AI-assisted portfolio prototypes, not client engagements or production deployments. Model integrations and unmeasured results are identified in each README. The RAG project includes an attributed comparison harness for [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG); upstream research and code remain credited to their authors.
 
+## Online learning
+
+[Online Regret Lab](https://github.com/suprkco/Trading-strategies-analysis-regret-minimization): terminal-first Hedge experiments, explicit external regret, four causal experts and 80 reproducible synthetic runs. Includes 18 tests; no real-market profitability claim.
+
 ## Earlier work
 
-[Python country-data comparison](https://github.com/suprkco/Comparaison-des-indemnit-s-de-VIE-par-pays) · [Trading simulation](https://github.com/suprkco/Trading-strategies-analysis-regret-minimization) · [Java RentManager](https://github.com/suprkco/Projet_RentManager)
+[Python country-data comparison](https://github.com/suprkco/Comparaison-des-indemnit-s-de-VIE-par-pays) · [Online Regret Lab](https://github.com/suprkco/Trading-strategies-analysis-regret-minimization) · [Java RentManager](https://github.com/suprkco/Projet_RentManager)

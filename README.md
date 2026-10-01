@@ -1,5 +1,3 @@
-# Kilian Codaccioni
-
 EPF engineering graduate in digital technology and data, and ESSEC graduate.
 Focused on applied generative AI, data systems and business transformation.
 Seeking junior consulting opportunities in applied AI and data, open to international roles.

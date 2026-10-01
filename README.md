@@ -2,22 +2,24 @@
 
 EPF engineering graduate in digital technology and data, and ESSEC graduate.
 Focused on applied generative AI, data systems and business transformation.
-Seeking generative AI and data consulting opportunities in New York.
+Seeking junior consulting opportunities in applied AI and data, open to international roles.
 
 [LinkedIn](https://www.linkedin.com/in/codaccioni-kilian/) · [GitHub](https://github.com/suprkco)
 
 ## Start here
 
-Four focused prototypes: inspectable evidence, constrained tools, human review and typed decisions. Each includes runnable examples, tests, CI and explicit limitations.
+Start with **Market Scout**: a real local language model, dated public-source briefs, a paired single-call comparison, and published failure cases. The other prototypes demonstrate constrained tools, retrieval and typed decisions.
 
 | Project | What to inspect | Validation and scope |
 | --- | --- | --- |
-| **[EU AI Act Evidence Explorer](https://github.com/suprkco/rag-eu-ai-act)** | Terminal interface + FastAPI, source citations, BM25 baseline, optional Ollama/pgvector adapters | 20/20 development questions hit the expected article in the top 5 chunks; not a held-out legal QA benchmark |
+| **[Market Scout Agents](https://github.com/suprkco/market-scout-agents)** | Terminal workflow, LangGraph roles, exact-quote checks and persistent human review | Qwen2.5-0.5B on 6 public-source cases: 9/9 exact quotes; AI-assisted inspection found 3 contradictory implications. Critic adds latency without demonstrated accuracy gain |
+| **[EU AI Act Evidence Explorer](https://github.com/suprkco/rag-eu-ai-act)** | Terminal + FastAPI, BM25, optional pgvector, real local generation experiment | New challenge: 8/8 article hits, 0/4 near-domain retrieval abstentions; publishes model hallucinations despite valid citation IDs |
 | **[MCP SQL Analytics](https://github.com/suprkco/mcp-sql-analytics)** | Real MCP stdio server, read-only SQLite policy, bounded queries | 24 tests, including protocol integration and denied writes; synthetic retail data |
-| **[Market Scout Agents](https://github.com/suprkco/market-scout-agents)** | LangGraph specialist roles, evidence checks and persistent human review | 9 workflow tests; default fixture mode, optional model calls |
 | **[Jev SERP Opportunity Lab](https://github.com/suprkco/jev-serp-opportunity-lab)** | Typed intent judgments, explicit uncertainty routing, terminal reports | 13 contract/policy tests; Jev live performance not yet measured |
 
-**[Read the Jev terminal transcript](https://suprkco.github.io/jev-serp-opportunity-lab/)** — clearly labeled synthetic inputs and simulated responses, no API key required.
+**[Market Scout case study](https://github.com/suprkco/market-scout-agents/blob/main/docs/case-study.md)** · **[Three-minute terminal replay](https://github.com/suprkco/market-scout-agents/blob/main/docs/demo.gif)**
+
+[Jev terminal transcript](https://suprkco.github.io/jev-serp-opportunity-lab/): synthetic inputs and simulated responses, no API key required.
 
 ## Stack used in this portfolio
 

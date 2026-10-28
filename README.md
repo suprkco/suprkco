@@ -1,4 +1,3 @@
-# Kilian Codaccioni
 
 Engineer (EPF, digital technology and data) and ESSEC graduate.
 I build AI systems whose decisions can be checked: every output traced to its source, every result measured, every risky action gated.

@@ -30,8 +30,6 @@ Python · SQL · FastAPI · Pydantic · Next.js / TypeScript · MCP · LangGraph
 - Separate deterministic tests from model-quality evaluations.
 - Make review and failure paths visible.
 
-The projects are portfolio prototypes, not client engagements or production deployments. Model integrations and unmeasured results are identified in each README. The RAG project includes an attributed comparison harness for [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG); upstream research and code remain credited to their authors.
-
 ## Online learning
 
 [Online Regret Lab](https://github.com/suprkco/Trading-strategies-analysis-regret-minimization): terminal-first Hedge experiments, explicit external regret, four causal experts and 80 reproducible synthetic runs. Includes 18 tests; no real-market profitability claim.

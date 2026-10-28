@@ -1,4 +1,3 @@
-
 Engineer (EPF, digital technology and data) and ESSEC graduate.
 I build AI systems whose decisions can be checked: every output traced to its source, every result measured, every risky action gated.
 Open to consulting and engineering roles in applied AI and data, in France or abroad.

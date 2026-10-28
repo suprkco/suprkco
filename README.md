@@ -38,7 +38,7 @@ The projects are portfolio prototypes, not client engagements or production depl
 
 ## Distributed compute experiment
 
-[Adaptive Inference Network](https://github.com/suprkco/Blockchain-adaptive-inference-network): trained MiniLM embeddings split across two CPU workers, compared with local inference and local EVM receipts. Publishes 60 latency samples, equivalence checks, injected failures and a research white paper; no trustless-inference or multi-machine performance claim.
+[Adaptive Inference Network](https://github.com/suprkco/Blockchain-adaptive-inference-network): trained MiniLM embeddings split across two CPU workers, compared with local inference and local EVM receipts. Publishes 60 latency samples, equivalence checks and injected failures; no trustless-inference or multi-machine performance claim.
 
 ## Earlier work
 

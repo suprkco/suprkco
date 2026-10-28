@@ -30,7 +30,7 @@ Python · SQL · FastAPI · Pydantic · Next.js / TypeScript · MCP · LangGraph
 - Separate deterministic tests from model-quality evaluations.
 - Make review and failure paths visible.
 
-The projects are AI-assisted portfolio prototypes, not client engagements or production deployments. Model integrations and unmeasured results are identified in each README. The RAG project includes an attributed comparison harness for [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG); upstream research and code remain credited to their authors.
+The projects are portfolio prototypes, not client engagements or production deployments. Model integrations and unmeasured results are identified in each README. The RAG project includes an attributed comparison harness for [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG); upstream research and code remain credited to their authors.
 
 ## Online learning
 
